@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="actionMenuTextColor">@android:color/holo_green_light</item>
+        <item name="android:actionMenuTextColor">#181717</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorText</item>
+        <item name="android:textColor">@color/colorText</item>
+        <item name="android:textColorHint">@color/colorText</item>
+        <item name="colorControlNormal">@color/colorText</item>
+
+
+        <item name="colorControlActivated">@color/colorText</item>
+        <item name="android:colorBackground">@android:color/background_light</item>
+        <item name="android:textColorPrimaryInverse">@color/colorText</item>
+    </style>
+
+    <style name="n" parent="Theme.AppCompat.Light.NoActionBar" >
+        <item name="colorPrimary">@android:color/background_dark</item>
+    </style>
+
+
+</resources>

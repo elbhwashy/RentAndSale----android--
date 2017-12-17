@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">real estate</string>
+    <string name="text_not_member">Not Member ?!</string>
+    <string name="text_login">LogIn</string>
+
+
+    <string name="text_accounts">All Accounts</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+
+    <string name="text_register">Register</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+
+    <string name="text_already_member">Already a member? Login</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_hello">Hello,</string>
+    <string name="text_title">Android Tutorials Hub</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_price">Price</string>
+    <string name="hint_type">Type</string>
+    <string name="text_save">Save</string>
+    <string name="save_message">Saved</string>
+    <string name="hint_rooms">Rooms</string>
+    <string name="hint_floor">Floor</string>
+    <string name="text_contact">Contact Announcer</string>
+    <string name="hint_desccription">Description</string>
+    <string name="action_insert_announcement_data">Add Announcement</string>
+    <string name="action_delete_all_announcements">Delete All</string>
+    <string name="action_save">Save</string>
+    <string name="action_home">Home</string>
+</resources>
